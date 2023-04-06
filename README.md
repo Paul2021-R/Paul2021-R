@@ -7,7 +7,7 @@ Be Insightfull Engineer.
 - [My Blog](https://paul2021-r.github.io/) 
 - [Gatsby 기술 블로그 스터디](https://ryu93notion.notion.site/github-io_team_study-4f009b6a65e844598a82afd0adf6eb38) : 기술블로그 스터디 모음<br>
     <a href="https://github.com/Paul2021-R/study_gatsby"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+    <a href="https://paul2021-r.github.io/ETC/20220324/20220324_afterteamstory/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [웹.찍.먹](https://ryu-paul.gitbook.io/) : 웹 프론트, 백엔드 기초를 모두 스터디 해보면서, 진로를 확실하게 정해보자. <br>
     <a href="https://github.com/Paul2021-R/study_web_study_full_stack"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href=""><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
