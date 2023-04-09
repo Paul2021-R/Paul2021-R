@@ -10,7 +10,6 @@ Be Insightfull Engineer.
     <a href="https://paul2021-r.github.io/ETC/20220324/20220324_afterteamstory/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [웹.찍.먹](https://ryu-paul.gitbook.io/) : 웹 프론트, 백엔드 기초를 모두 스터디 해보면서, 진로를 확실하게 정해보자. <br>
     <a href="https://github.com/Paul2021-R/study_web_study_full_stack"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [42서울 전체 활동 내역](https://github.com/Paul2021-R/42seoul_c_projects)
     <br><a href="https://github.com/Paul2021-R/42seoul_c_projects"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [독학 자바 스크립트 학습](https://github.com/Paul2021-R/study_java-script)
@@ -21,15 +20,17 @@ Be Insightfull Engineer.
     <br><a href="https://github.com/Paul2021-R/study_python"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [minishell project](https://github.com/Eingerjar/Minishell)
     <br><a href="https://github.com/Eingerjar/Minishell"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+    <a href="https://paul2021-r.github.io/ETC/202304042006/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [cub3D project](https://github.com/Paul2021-R/cub3D)
     <br><a href="https://github.com/Paul2021-R/cub3D"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [webserv ver.1.0](https://github.com/FareWellWebServer/webserv) : 실패한 팀 프로젝트...
     <br><a href="https://github.com/FareWellWebServer/webserv"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [webserv ver.2.0](https://github.com/webservVer2-0/webServ) : 성공한 2.0 프로젝트
     <br><a href="https://github.com/webservVer2-0/webServ"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href=""><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+    <a href="https://paul2021-r.github.io/ETC/202304042017/"><img src="https://img.shields.io/badge/-After Project(1)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+        <a href="https://paul2021-r.github.io/ETC/202304092350/"><img src="https://img.shields.io/badge/-After Project(2)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+            <a href="https://paul2021-r.github.io/ETC/202304100314/"><img src="https://img.shields.io/badge/-After Project(3)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+                <a href="https://paul2021-r.github.io/ETC/202304100516/"><img src="https://img.shields.io/badge/-After Project(4)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 
 ### Experience 👨🏽‍🎓
 <a><img src="https://img.shields.io/badge/-42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white&color=000000"/></a>
