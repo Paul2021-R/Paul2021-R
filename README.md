@@ -31,6 +31,8 @@ Be Insightfull Engineer.
         <a href="https://paul2021-r.github.io/ETC/202304092350/"><img src="https://img.shields.io/badge/-After Project(2)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
             <a href="https://paul2021-r.github.io/ETC/202304100314/"><img src="https://img.shields.io/badge/-After Project(3)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
                 <a href="https://paul2021-r.github.io/ETC/202304100516/"><img src="https://img.shields.io/badge/-After Project(4)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+- [Team Project] [Transcendance] : JavaScript 부터 TypeScript, nodeJs에서 NestJS까지 웹서비스를 구축해보자
+    <br><a href="https://github.com/Gaepo-transcendance-fighters"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 
 ### Experience 👨🏽‍🎓
 <a><img src="https://img.shields.io/badge/-42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white&color=000000"/></a>
