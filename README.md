@@ -44,18 +44,26 @@ Be Insightfull Engineer.
 <a><img src="https://img.shields.io/badge/-C-brightgree?style=for-the-badge&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-C++-brightgree?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C"/></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=FF7800"/></a>
+<a><img src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"/></a>
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+<a><img src="https://img.shields.io/badge/-JAVA-FF3366?style=for-the-badge&logo=java&logoColor=white&color=FF3366"/></a>
+<a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F"/></a>
+<a><img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F"/></a>
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 <a><img src="https://img.shields.io/badge/-Gatsby-blueviolet?style=for-the-badge&logo=gatsby&logoColor=white&color=663399"/></a>
 <a><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/></a>
 <a><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
 <a><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FCC624"/></a>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Techs that I've used at least once.
-<a><img src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"/></a>
 <a><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/></a>
-<a><img src="https://img.shields.io/badge/-JAVA-FF3366?style=for-the-badge&logo=java&logoColor=white&color=FF3366"/></a>
-<a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F"/></a>
-<a><img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F"/></a>
 <a><img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white&color=009639"/></a>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Paul2021-R)
