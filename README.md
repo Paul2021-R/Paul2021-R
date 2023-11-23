@@ -41,30 +41,59 @@ Be Insightfull Engineer.
 ### What Can I Do 🙆🏻‍♂️
 
 #### Techs that I can use well.
+##### Languages
 <a><img src="https://img.shields.io/badge/-C-brightgree?style=for-the-badge&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-C++-brightgree?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C"/></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=FF7800"/></a>
 <a><img src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"/></a>
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-<a><img src="https://img.shields.io/badge/-JAVA-FF3366?style=for-the-badge&logo=java&logoColor=white&color=FF3366"/></a>
+<a><img src="https://img.shields.io/badge/-JAVA-FF3366?style=for-the-badge&logo=oracle&logoColor=white&color=FF3366"/></a>
+<a><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/></a>
+
+
+##### Frameworks
 <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F"/></a>
 <a><img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F"/></a>
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+##### Package managers
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-<a><img src="https://img.shields.io/badge/-Gatsby-blueviolet?style=for-the-badge&logo=gatsby&logoColor=white&color=663399"/></a>
-<a><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/></a>
-<a><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
+<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+
+##### Operating System & web tools
 <a><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FCC624"/></a>
+<a><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
+<a><img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white&color=009639"/></a>
+<a><img src="https://img.shields.io/badge/nhncloud-041E42?style=for-the-badge&logo=ownCloud&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-Gatsby-blueviolet?style=for-the-badge&logo=gatsby&logoColor=white&color=663399"/></a>
+<a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+
+##### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<a><img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white&color=009639"/></a>
-<a><img src="https://img.shields.io/badge/nhncloud-041E42?style=flat&logo=ownCloud&logoColor=white"/></a>
+
+##### Tools  
+<a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white"/></a>
+
 
 #### Techs that I've used at least once.
 <a><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/></a>
+<a><img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Paul2021-R)
