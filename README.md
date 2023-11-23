@@ -33,7 +33,7 @@ Be Insightfull Engineer.
                 <a href="https://paul2021-r.github.io/ETC/202304100516/"><img src="https://img.shields.io/badge/-After Project(4)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [Transcendance] : JavaScript 부터 TypeScript, nodeJs에서 NestJS까지 웹서비스를 구축해보자
     <br><a href="https://github.com/Gaepo-transcendance-fighters"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-- [Team Project] [Peer-Web-Applcation 1기] : PWA project of Community Peer, 웹 실전 서비스 구축해보기 
+- [Team Project] [Peer-Web-Applcation 1기 총괄 개발 리더] : PWA project of Community Peer, 웹 실전 서비스 구축해보기 
     <br><a href="https://github.com/peer-42seoul/Peer-Backend"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 
 
