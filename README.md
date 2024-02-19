@@ -2,10 +2,10 @@
 
 ### Who Am I 🧑🏻‍💻
 
-Be Insightfull Engineer. 
+Be Insightfull Engineer. <br/>
 언제나 종합적으로, 효율적으로, 효과적인 창조활동을 지향하는 개발자 류 한솔(Paul)입니다.<br>
-Peer 커뮤니티에서 동료학습을 통해 개발자로써의 하루하루의 성장을 중요시 합니다...!<br>
-현재는 피어 커뮤니티를 위한 웹 어플리케이션 서비스 구축을 위해 노력중입니다. <br>
+웹 개발의 백엔드 개발에서 시작해서 프론트엔드에 관심을 가지고,<br> 
+나아가서 AI를 통한 웹 인터페이스의 혁신의 가능성을 믿고 하루 하루 성장하고 있습니다.<br>
 문제 해결을 위해, 혼자서 불가능한 것들을 함께 제대로 달성하기 위해, 항상 고민하고, 궁금해하며, 찾아다니는 개발의 과정을 겪고 있습니다. <br>
 
 - [My Blog](https://paul2021-r.github.io/) 
@@ -39,16 +39,21 @@ Peer 커뮤니티에서 동료학습을 통해 개발자로써의 하루하루�
     <br><a href="https://github.com/Gaepo-transcendance-fighters"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [Peer-Web-Applcation 1기 총괄 개발 리더] : PWA project of Community Peer, 웹 실전 서비스 구축해보기 
     <br><a href="https://github.com/peer-42seoul/Peer-Backend"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-
+     <a href="https://www.peer-study.co.kr/pdf/peer-01.pdf"><img src="https://img.shields.io/badge/-peer 개발백서-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
+      <a href="https://paul2021-r.github.io/Projects/202402091238/"><img src="https://img.shields.io/badge/-피어 알림 시스템을 위한 고민(1)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
+      <a href=""><img src="https://img.shields.io/badge/-피어 알림 시스템을 위한 고민(2)(추후 업데이트 예정)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
+      <a href=""><img src="https://img.shields.io/badge/-피어 전반부 개발 총 정리(추후 업데이트 예정)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
+      <a href="https://peer-study.co.kr"><img src="https://github.com/Paul2021-R/Paul2021-R/assets/80471693/f3db3512-359b-46e8-b774-024c531d5f98" style="width: 64px; height: 64px;"/>
 
 ### Experience 👨🏽‍🎓
 <a><img src="https://img.shields.io/badge/-42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white&color=000000"/></a>
-- 42 Seoul Caddet : 2021-11-08 ~ Now
+- 42 Seoul Caddet : 2021-11-08 ~ 2023.10.30
+- Project Peer web Application Team Leader: 2023.05 ~ 2024.02
 
 ### What Can I Do 🙆🏻‍♂️
 
 #### Techs that I can use well.
-##### Languages
+##### **Languages**
 <a><img src="https://img.shields.io/badge/-C-brightgree?style=for-the-badge&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-C++-brightgree?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C"/></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=FF7800"/></a>
@@ -56,22 +61,14 @@ Peer 커뮤니티에서 동료학습을 통해 개발자로써의 하루하루�
 <a><img src="https://img.shields.io/badge/-JAVA-FF3366?style=for-the-badge&logo=oracle&logoColor=white&color=FF3366"/></a>
 <a><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/></a>
 
-
-##### Frameworks
+##### **Frameworks**
 <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F"/></a>
 <a><img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F"/></a>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-##### Package managers
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-
-##### Operating System & web tools
+##### **Operating System & web tools**
 <a><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FCC624"/></a>
-<a><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
 <a><img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white&color=009639"/></a>
 <a><img src="https://img.shields.io/badge/nhncloud-041E42?style=for-the-badge&logo=ownCloud&logoColor=white"/></a>
@@ -79,24 +76,20 @@ Peer 커뮤니티에서 동료학습을 통해 개발자로써의 하루하루�
 <a><img src="https://img.shields.io/badge/-Gatsby-blueviolet?style=for-the-badge&logo=gatsby&logoColor=white&color=663399"/></a>
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 
-##### Databases
+##### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-##### Tools  
+##### **Tools**  
 <a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-#### Techs that I've used at least once.
+##### **Techs that I've used at least once.**
 <a><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/></a>
 <a><img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
