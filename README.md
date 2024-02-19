@@ -1,6 +1,6 @@
 # 😜 Paul(Hansol Ryu)
 
-### Who Am I 🧑🏻‍💻
+## Who Am I 🧑🏻‍💻
 
 Be Insightfull Engineer. <br/>
 언제나 종합적으로, 효율적으로, 효과적인 창조활동을 지향하는 개발자 류 한솔(Paul)입니다.<br>
@@ -45,15 +45,18 @@ Be Insightfull Engineer. <br/>
       <a href=""><img src="https://img.shields.io/badge/-피어 전반부 개발 총 정리(추후 업데이트 예정)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
       <a href="https://peer-study.co.kr"><img src="https://github.com/Paul2021-R/Paul2021-R/assets/80471693/f3db3512-359b-46e8-b774-024c531d5f98" style="width: 64px; height: 64px;"/>
 
-### Experience 👨🏽‍🎓
+## Experience 👨🏽‍🎓
 <a><img src="https://img.shields.io/badge/-42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white&color=000000"/></a>
 - 42 Seoul Caddet : 2021-11-08 ~ 2023.10.30
 - Project Peer web Application Team Leader: 2023.05 ~ 2024.02
 
-### What Can I Do 🙆🏻‍♂️
+## Algortihm Solved 👨‍💻
+### will... sooooon.....
 
-#### Techs that I can use well.
-##### **Languages**
+## What Can I Do 🙆🏻‍♂️
+
+### Techs that I can use well.
+#### **Languages**
 <a><img src="https://img.shields.io/badge/-C-brightgree?style=for-the-badge&logo=C&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-C++-brightgree?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C"/></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=FF7800"/></a>
@@ -61,12 +64,12 @@ Be Insightfull Engineer. <br/>
 <a><img src="https://img.shields.io/badge/-JAVA-FF3366?style=for-the-badge&logo=oracle&logoColor=white&color=FF3366"/></a>
 <a><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/></a>
 
-##### **Frameworks**
+#### **Frameworks**
 <a><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F"/></a>
 <a><img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F"/></a>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-##### **Operating System & web tools**
+#### **Operating System & web tools**
 <a><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=FCC624"/></a>
 <a><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
@@ -76,20 +79,20 @@ Be Insightfull Engineer. <br/>
 <a><img src="https://img.shields.io/badge/-Gatsby-blueviolet?style=for-the-badge&logo=gatsby&logoColor=white&color=663399"/></a>
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 
-##### **Databases**
+#### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-##### **Tools**  
+#### **Tools**  
 <a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 
-##### **Techs that I've used at least once.**
+#### **Techs that I've used at least once.**
 <a><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/></a>
 <a><img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
