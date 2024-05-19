@@ -4,11 +4,13 @@
 
 Be Insightfull Engineer. <br/>
 언제나 종합적으로, 효율적으로, 효과적인 창조활동을 지향하는 개발자 류 한솔(Paul)입니다.<br>
-웹 개발의 백엔드 개발에서 시작해서 프론트엔드에 관심을 가지고,<br> 
+시스템의 구축에 관심을 가지고 있으며, 백엔드 개발자를 지향하고 있습니다.<br> 
 나아가서 AI를 통한 웹 인터페이스의 혁신의 가능성을 믿고 하루 하루 성장하고 있습니다.<br>
-문제 해결을 위해, 혼자서 불가능한 것들을 함께 제대로 달성하기 위해, 항상 고민하고, 궁금해하며, 찾아다니는 개발의 과정을 겪고 있습니다. <br>
+문제 해결을 위해, 혼자서 불가능한 것들을 팀으로 제대로 달성하기 위해, 항상 고민하고, 궁금해하며, 찾아다니고 소통하는 개발자입니다.<br>
+현재는 제 능력을 200% 활용할 곳을 찾고 있습니다. 저의 능력과 열의와 열정을 제대로 보여드릴 곳을 찾고 있습니다..! 
 
-- [My Blog](https://paul2021-r.github.io/) 
+- [My Blog](https://paul2021-r.github.io/)
+- [2024-05-20 기준 이력서](https://drive.google.com/file/d/1GLYLLFDxdw0GR6gS6Wu35ukA3ARDDpzU/view?usp=sharing)
 - [Gatsby 기술 블로그 스터디](https://ryu93notion.notion.site/github-io_team_study-4f009b6a65e844598a82afd0adf6eb38) : 기술블로그 스터디 모음<br>
     <a href="https://github.com/Paul2021-R/study_gatsby"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href="https://paul2021-r.github.io/ETC/20220324/20220324_afterteamstory/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
@@ -40,18 +42,12 @@ Be Insightfull Engineer. <br/>
 - [Team Project] [Peer-Web-Applcation 1기 총괄 개발 리더] : PWA project of Community Peer, 웹 실전 서비스 구축해보기 
     <br><a href="https://github.com/peer-42seoul/Peer-Backend"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
      <a href="https://www.peer-study.co.kr/pdf/peer-01.pdf"><img src="https://img.shields.io/badge/-peer 개발백서-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
-      <a href="https://paul2021-r.github.io/Projects/202402091238/"><img src="https://img.shields.io/badge/-피어 알림 시스템을 위한 고민(1)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
-      <a href=""><img src="https://img.shields.io/badge/-피어 알림 시스템을 위한 고민(2)(추후 업데이트 예정)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
-      <a href=""><img src="https://img.shields.io/badge/-피어 전반부 개발 총 정리(추후 업데이트 예정)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
-      <a href="https://peer-study.co.kr"><img src="https://github.com/Paul2021-R/Paul2021-R/assets/80471693/f3db3512-359b-46e8-b774-024c531d5f98" style="width: 64px; height: 64px;"/>
 
 ## Experience 👨🏽‍🎓
 <a><img src="https://img.shields.io/badge/-42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white&color=000000"/></a>
 - 42 Seoul Caddet : 2021-11-08 ~ 2023.10.30
-- Project Peer web Application Team Leader: 2023.05 ~ 2024.02
-
-## Algortihm Solved 👨‍💻
-### will... sooooon.....
+- Project "Peer web Application" Team Leader : 2023.05 ~ 2024.02
+- Project "Beyond The Bracket" Solo Project : 2024.05 ~ 
 
 ## What Can I Do 🙆🏻‍♂️
 
@@ -78,19 +74,24 @@ Be Insightfull Engineer. <br/>
 <a><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-Gatsby-blueviolet?style=for-the-badge&logo=gatsby&logoColor=white&color=663399"/></a>
 <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 
 #### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-7AC6ED?style=for-the-badge&logo=SQLite&logoColor=white)
+
 
 #### **Tools**  
 <a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/gitAction-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Datagrip-21D18A?style=for-the-badge&logo=Datagrip&logoColor=white"/></a>
 
 #### **Techs that I've used at least once.**
 <a><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/></a>
