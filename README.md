@@ -18,17 +18,12 @@ Be Insightfull Engineer. <br/>
     <a href="https://github.com/Paul2021-R/study_web_study_full_stack"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [42서울 전체 활동 내역](https://github.com/Paul2021-R/42seoul_c_projects)
     <br><a href="https://github.com/Paul2021-R/42seoul_c_projects"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-- [독학 자바 스크립트 학습](https://github.com/Paul2021-R/study_java-script)
-    <br><a href="https://github.com/Paul2021-R/study_java-script"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-- [독학 자바 학습](https://github.com/Paul2021-R/study_Java)
-    <br><a href="https://github.com/Paul2021-R/study_Java"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [파이썬과 함께한 알고리즘 스터디](https://github.com/Paul2021-R/study_python)
     <br><a href="https://github.com/Paul2021-R/study_python"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [minishell project](https://github.com/Eingerjar/Minishell)
     <br><a href="https://github.com/Eingerjar/Minishell"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href="https://paul2021-r.github.io/42%20seoul/Minishell/202304042006/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
-- [Team Project] [cub3D project](https://github.com/Paul2021-R/cub3D)
-    <br><a href="https://github.com/Paul2021-R/cub3D"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+- [Team Project] [cub3D project]()
 - [Team Project] [webserv ver.1.0](https://github.com/FareWellWebServer/webserv) : 실패한 팀 프로젝트...
     <br><a href="https://github.com/FareWellWebServer/webserv"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [webserv ver.2.0](https://github.com/webservVer2-0/webServ) : 성공한 2.0 프로젝트
