@@ -26,22 +26,25 @@ Be Insightfull Engineer. <br/>
     <br><a href="https://github.com/Paul2021-R/study_python"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [minishell project](https://github.com/Eingerjar/Minishell)
     <br><a href="https://github.com/Eingerjar/Minishell"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href="https://paul2021-r.github.io/ETC/202304042006/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+    <a href="https://paul2021-r.github.io/42%20seoul/Minishell/202304042006/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [cub3D project](https://github.com/Paul2021-R/cub3D)
     <br><a href="https://github.com/Paul2021-R/cub3D"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [webserv ver.1.0](https://github.com/FareWellWebServer/webserv) : 실패한 팀 프로젝트...
     <br><a href="https://github.com/FareWellWebServer/webserv"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [webserv ver.2.0](https://github.com/webservVer2-0/webServ) : 성공한 2.0 프로젝트
     <br><a href="https://github.com/webservVer2-0/webServ"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-    <a href="https://paul2021-r.github.io/ETC/202304042017/"><img src="https://img.shields.io/badge/-After Project(1)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
-        <a href="https://paul2021-r.github.io/ETC/202304092350/"><img src="https://img.shields.io/badge/-After Project(2)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
-            <a href="https://paul2021-r.github.io/ETC/202304100314/"><img src="https://img.shields.io/badge/-After Project(3)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
-                <a href="https://paul2021-r.github.io/ETC/202304100516/"><img src="https://img.shields.io/badge/-After Project(4)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+    <a href="https://paul2021-r.github.io/42%20seoul/webserv/202304042017/"><img src="https://img.shields.io/badge/-After Project(1)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+        <a href="https://paul2021-r.github.io/42%20seoul/webserv/202304092350/"><img src="https://img.shields.io/badge/-After Project(2)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+            <a href="https://paul2021-r.github.io/42%20seoul/webserv/202304100314/"><img src="https://img.shields.io/badge/-After Project(3)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+                <a href="https://paul2021-r.github.io/42%20seoul/webserv/202304100516/"><img src="https://img.shields.io/badge/-After Project(4)-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [Transcendance] : JavaScript 부터 TypeScript, nodeJs에서 NestJS까지 웹서비스를 구축해보자
     <br><a href="https://github.com/Gaepo-transcendance-fighters"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+    <a href="https://paul2021-r.github.io/42%20seoul/Transcendence/20231205/"><img src="https://img.shields.io/badge/-초월자가 되는 방법, 42서울 마지막 공통과제 후기-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [Peer-Web-Applcation 1기 총괄 개발 리더] : PWA project of Community Peer, 웹 실전 서비스 구축해보기 
     <br><a href="https://github.com/peer-42seoul/Peer-Backend"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-     <a href="https://www.peer-study.co.kr/pdf/peer-01.pdf"><img src="https://img.shields.io/badge/-peer 개발백서-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
+     <a href="https://paul2021-r.github.io/Projects/202402091238/"><img src="https://img.shields.io/badge/-[peer] 피어 알림 시스템 구축을 위한 고민 정리-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+<a href="https://paul2021-r.github.io/Projects/20240223020331/"><img src="https://img.shields.io/badge/-peer 준비단계 후기-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
+<a href="https://paul2021-r.github.io/Projects/20240223080156/"><img src="https://img.shields.io/badge/-peer 개발단계 후기-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
 
 ## Experience 👨🏽‍🎓
 <a><img src="https://img.shields.io/badge/-42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white&color=000000"/></a>
