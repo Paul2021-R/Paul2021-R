@@ -14,7 +14,7 @@ Be Insightfull Engineer. <br/>
 - [Gatsby 기술 블로그 스터디](https://ryu93notion.notion.site/github-io_team_study-4f009b6a65e844598a82afd0adf6eb38) : 기술블로그 스터디 모음<br>
     <a href="https://github.com/Paul2021-R/study_gatsby"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href="https://paul2021-r.github.io/ETC/20220324/20220324_afterteamstory/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
-- [웹.찍.먹](https://ryu-paul.gitbook.io/) : 웹 프론트, 백엔드 기초를 모두 스터디 해보면서, 진로를 확실하게 정해보자. <br>
+- [웹.찍.먹](https://ryu-paul.gitbook.io/web_full_stack/) : 웹 프론트, 백엔드 기초를 모두 스터디 해보면서, 진로를 확실하게 정해보자. <br>
     <a href="https://github.com/Paul2021-R/study_web_study_full_stack"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [42서울 전체 활동 내역](https://github.com/Paul2021-R/42seoul_c_projects)
     <br><a href="https://github.com/Paul2021-R/42seoul_c_projects"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
@@ -23,7 +23,7 @@ Be Insightfull Engineer. <br/>
 - [Team Project] [minishell project](https://github.com/Eingerjar/Minishell)
     <br><a href="https://github.com/Eingerjar/Minishell"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href="https://paul2021-r.github.io/42%20seoul/Minishell/202304042006/"><img src="https://img.shields.io/badge/-After Project-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
-- [Team Project] [cub3D project]()
+- [Team Project] [cub3D project]() : 현재 해당 레포지터리 삭제로 복구 중
 - [Team Project] [webserv ver.1.0](https://github.com/FareWellWebServer/webserv) : 실패한 팀 프로젝트...
     <br><a href="https://github.com/FareWellWebServer/webserv"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 - [Team Project] [webserv ver.2.0](https://github.com/webservVer2-0/webServ) : 성공한 2.0 프로젝트
@@ -37,6 +37,7 @@ Be Insightfull Engineer. <br/>
     <a href="https://paul2021-r.github.io/42%20seoul/Transcendence/20231205/"><img src="https://img.shields.io/badge/-초월자가 되는 방법, 42서울 마지막 공통과제 후기-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 - [Team Project] [Peer-Web-Applcation 1기 총괄 개발 리더] : PWA project of Community Peer, 웹 실전 서비스 구축해보기 
     <br><a href="https://github.com/peer-42seoul/Peer-Backend"><img src="https://img.shields.io/badge/-Git Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+    <a href="https://www.peer-study.co.kr/pdf/peer-01.pdf"><img src="https://img.shields.io/badge/-peer 개발백서-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
      <a href="https://paul2021-r.github.io/Projects/202402091238/"><img src="https://img.shields.io/badge/-[peer] 피어 알림 시스템 구축을 위한 고민 정리-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 <a href="https://paul2021-r.github.io/Projects/20240223020331/"><img src="https://img.shields.io/badge/-peer 준비단계 후기-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a>
 <a href="https://paul2021-r.github.io/Projects/20240223080156/"><img src="https://img.shields.io/badge/-peer 개발단계 후기-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&color=09B3AF"/></a><br>
